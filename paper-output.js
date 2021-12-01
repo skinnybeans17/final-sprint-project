@@ -1,7 +1,7 @@
 const imageArray = [
-	"https://static.wikia.nocookie.net/battlefordreamisland/images/0/0a/Scissors_Cuts_Paper.png/revision/latest?cb=20211123200547",
-    "https://static.wikia.nocookie.net/battlefordreamisland/images/b/b0/Paper_Covers_Rock.png/revision/latest?cb=20211123181933",
-	"https://static.wikia.nocookie.net/battlefordreamisland/images/9/9c/Paper_Tie.png/revision/latest?cb=20211124164855"
+	"https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/Scissors%20Cuts%20Paper.png",
+    "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/Paper%20Covers%20Rock.png",
+	"https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/Paper%20Tie.png"
 ];
 
 const image = document.querySelector("img");
