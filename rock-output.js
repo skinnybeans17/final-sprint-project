@@ -1,5 +1,5 @@
 const imageArray = [
-	"https://static.wikia.nocookie.net/battlefordreamisland/images/e/ef/Rock_Breaks_Scissors.png/revision/latest?cb=20211123182007",
+	"https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/Rock%20Breaks%20Scissors.png",
     "https://static.wikia.nocookie.net/battlefordreamisland/images/b/b0/Paper_Covers_Rock.png/revision/latest?cb=20211123181933",
 	"https://static.wikia.nocookie.net/battlefordreamisland/images/6/6e/Rocks_Tie.png/revision/latest?cb=20211124164835"
 ];
