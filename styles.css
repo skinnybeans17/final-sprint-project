@@ -3,7 +3,7 @@ body {
   }
   
 .container {
-    max-width: 960px;
+    max-width: 1280px;
   }
   
 .header {
@@ -11,5 +11,6 @@ body {
   }
 
 .card-body {
-  min-height: 300px;
+  min-height: 385px;
+  max-height: 900px;
 }
