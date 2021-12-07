@@ -13,7 +13,7 @@ const imageArray = [
     "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-redreverse.png",
     "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-reddraw2.png",
     "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-yellow0.png",
-    "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-yelow1.png",
+    "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-yellow1.png",
     "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-yellow2.png",
     "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-yellow3.png",
     "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/uno_card-yellow4.png",
