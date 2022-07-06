@@ -1,6 +1,7 @@
 const imageArray = [
 	"https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/sword%20win.png",
-    "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/sword%20lose.png"
+    "https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/sword%20lose.png",
+	"https://raw.githubusercontent.com/skinnybeans17/three-dice-rolls-outcomes/main/sword%20tie.png"
 ];
 
 const image = document.querySelector("img");
